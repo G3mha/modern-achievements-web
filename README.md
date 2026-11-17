@@ -1,5 +1,7 @@
 # Modern Achievements - Frontend
 
+> Archived. Kept as an earlier Steam achievement tracker.
+
 Project developed by Enricco Gemha.
 
 Video demonstrating the features of this project: [YouTube video](https://youtu.be/nq-Y2Bx_B-g).
