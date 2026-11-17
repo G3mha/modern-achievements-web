@@ -1,4 +1,4 @@
-# Modern Achievements - Frontend
+# Modern Achievements — Web
 
 > Archived. Kept as an earlier Steam achievement tracker.
 
